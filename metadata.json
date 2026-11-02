@@ -1,0 +1,6 @@
+{
+  "name": "Soni's Sweet 16 Magical Birthday Adventure",
+  "description": "An enchanting interactive birthday adventure game celebrating Soni My Doll's 16th birthday, created with love by Mannu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
